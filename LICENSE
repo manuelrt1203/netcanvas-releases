@@ -1,0 +1,39 @@
+NetCanvas — Proprietary License (All Rights Reserved)
+Licence propriétaire, tous droits réservés (résumé en français en bas de page).
+
+Copyright (c) 2026 manuelrt1203. All rights reserved.
+
+1. Use of the application. The installers and the web version of NetCanvas, as published by the copyright holder, may
+   be used free of charge for personal and educational, non-commercial purposes (learning, teaching, labs and
+   exams in a school or university).
+
+2. No other right is granted. Without the prior written permission of the copyright holder, you may not copy,
+   modify, merge, publish, distribute, redistribute, sublicense, sell, rent, host as a service, reverse-engineer
+   (except where applicable law expressly allows it despite this restriction), or otherwise use the source code, the
+   installers or any work derived from them for any other purpose. This includes any commercial use, any use by a
+   company or an institution for a fee, and any use of this material to train machine-learning models.
+
+3. Third-party components. NetCanvas includes open-source components (for example Electron, React and their
+   dependencies). They remain under their own licences, which are reproduced in the application's distribution.
+   Nothing in this licence restricts rights granted by those licences.
+
+4. Trademarks. Cisco, Cisco IOS and Packet Tracer are trademarks of Cisco Systems, Inc. MikroTik and RouterOS are
+   trademarks of SIA Mikrotīkls. GNS3 is a trademark of GNS3 Technologies Inc. NetCanvas is an independent
+   product: it is not affiliated with, endorsed by or sponsored by these companies. Their names are used only to
+   identify the equipment, command syntax and file formats with which NetCanvas is compatible. Nothing in this
+   licence grants any right over them.
+
+5. No warranty. The software is provided "as is", without warranty of any kind. NetCanvas is a learning tool: its
+   simulation does not replace real equipment and must not be used to configure or certify production networks. To
+   the maximum extent permitted by law, the copyright holder is not liable for any claim or damage arising from its
+   use.
+
+6. Changes. The copyright holder may at any time publish NetCanvas under a different licence. Versions already
+   obtained keep the terms under which they were published.
+
+--- Résumé en français (non contractuel) ---
+Utilisation gratuite pour l'apprentissage et l'enseignement, sans usage commercial. Aucune copie, modification,
+redistribution, revente, hébergement ni rétro-ingénierie sans autorisation écrite du titulaire, y compris pour un
+usage payant par une entreprise ou un établissement. Les composants open source gardent leurs propres licences. Cisco,
+MikroTik, GNS3 et Packet Tracer sont des marques de leurs propriétaires : NetCanvas est indépendant et non affilié.
+C'est un outil d'apprentissage, pas un outil pour des réseaux de production.
